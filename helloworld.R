@@ -1,5 +1,5 @@
 library(ggplot2)
-
+library(cowplot)
 
 
 raw_data = read.csv('Churn_Modelling.csv')
