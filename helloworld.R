@@ -1,7 +1,5 @@
-library(ISLR)
-library(DataExplorer)
 library(ggplot2)
-require(dplyr)
+
 
 
 raw_data = read.csv('Churn_Modelling.csv')
