@@ -6,10 +6,10 @@ st.header('🎈 R x Python Streamlit App')
 
 st.sidebar.markdown('''
 # About us
--Rahul Sandireddy - 20BCE1001
--Vikkurty Vamsi   - 20BCE1066
--Thota Varshika   - 20BPS1158
--Jaladi Deepika   - 20BPS1099
+- 'Rahul Sandireddy - 20BCE1001'
+- 'Vikkurty Vamsi   - 20BCE1066'
+- 'Thota Varshika   - 20BPS1158'
+- 'Jaladi Deepika   - 20BPS1099'
 
 R packages used:
 - 'ISLR'
