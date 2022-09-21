@@ -2,4 +2,4 @@ r-base
 r-base-dev
 r-cran-ggplot2
 r-cran-cowplot
-
+https://cran.r-project.org/package=ISLR
