@@ -34,8 +34,4 @@ df$Exited = as.character(df$Exited)
 par(mfrow = c(1, 2))
 
 hist(df$CreditScore)
-hist(df$Age)
-hist(df$Tenure, breaks = 5)
-hist(df$Balance, breaks = 10)
-hist(df$EstimatedSalary)
 ggsave("helloworld.png", width = 8, height = 8)
